@@ -7,6 +7,10 @@ A fully decentralized, provably fair gaming platform built on Solana blockchain.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
+<img width="1341" height="948" alt="image" src="https://github.com/user-attachments/assets/3cd93591-edf2-4f85-b8ec-9930701545e8" />
+
+
 ## 📖 Table of Contents
 
 - [Overview](#overview)
@@ -448,3 +452,4 @@ For support, questions, or suggestions:
 **Built with ❤️ on Solana**
 
 *OnChainMee.fun - Where gaming meets blockchain transparency*
+
